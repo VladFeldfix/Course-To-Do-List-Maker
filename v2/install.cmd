@@ -1,1 +1,0 @@
-pyinstaller -i favicon.ico --onefile Course-To-Do-List-Maker.py
