@@ -1,5 +1,5 @@
-(['D:\\Users\\Vlad\\Projects\\Applications\\Course-To-Do-List-Maker\\Course-To-Do-List-Maker.py'],
- ['D:\\Users\\Vlad\\Projects\\Applications\\Course-To-Do-List-Maker'],
+(['D:\\Users\\Vlad\\Projects\\Applicationss\\Course-To-Do-List-Maker\\Course-To-Do-List-Maker.py'],
+ ['D:\\Users\\Vlad\\Projects\\Applicationss\\Course-To-Do-List-Maker'],
  ['codecs'],
  ['C:\\Users\\HP '
   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
@@ -27,7 +27,7 @@
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
    'PYSOURCE'),
   ('Course-To-Do-List-Maker',
-   'D:\\Users\\Vlad\\Projects\\Applications\\Course-To-Do-List-Maker\\Course-To-Do-List-Maker.py',
+   'D:\\Users\\Vlad\\Projects\\Applicationss\\Course-To-Do-List-Maker\\Course-To-Do-List-Maker.py',
    'PYSOURCE')],
  [('inspect',
    'C:\\Users\\HP '
@@ -381,18 +381,6 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\ast.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
-   'PYMODULE'),
-  ('tracemalloc',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
-   'PYMODULE'),
-  ('_py_abc',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
-   'PYMODULE'),
   ('getpass',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\getpass.py',
@@ -433,6 +421,14 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\http\\client.py',
    'PYMODULE'),
+  ('stringprep',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\_py_abc.py',
+   'PYMODULE'),
   ('subprocess',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\subprocess.py',
@@ -440,6 +436,10 @@
   ('signal',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\signal.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\tracemalloc.py',
    'PYMODULE'),
   ('SmartConsole',
    'C:\\Users\\HP '
@@ -461,13 +461,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\__future__.py',
    'PYMODULE')],
- [('VCRUNTIME140.dll',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
-   'BINARY'),
-  ('python311.dll',
+ [('python311.dll',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\python311.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\VCRUNTIME140.dll',
    'BINARY'),
   ('_decimal.pyd',
    'C:\\Users\\HP '
@@ -493,13 +493,13 @@
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_socket.pyd',
    'EXTENSION'),
-  ('unicodedata.pyd',
-   'C:\\Users\\HP '
-   'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
-   'EXTENSION'),
   ('_ssl.pyd',
    'C:\\Users\\HP '
    'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata.pyd',
+   'C:\\Users\\HP '
+   'User\\AppData\\Local\\Programs\\Python\\Python311\\DLLs\\unicodedata.pyd',
    'EXTENSION'),
   ('libcrypto-1_1.dll',
    'C:\\Users\\HP '
@@ -512,6 +512,6 @@
  [],
  [],
  [('base_library.zip',
-   'D:\\Users\\Vlad\\Projects\\Applications\\Course-To-Do-List-Maker\\build\\Course-To-Do-List-Maker\\base_library.zip',
+   'D:\\Users\\Vlad\\Projects\\Applicationss\\Course-To-Do-List-Maker\\build\\Course-To-Do-List-Maker\\base_library.zip',
    'DATA')],
  [])
